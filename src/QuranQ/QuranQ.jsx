@@ -60,7 +60,7 @@ export default function QuranQ() {
   };
 
   return (
-    <div className="container p-3 shadow-xl border rounded mx-auto max-w-md mt-3 bg-gray-100">
+    <div className="container p-3 shadow-xl border rounded mx-auto max-w-md bg-gray-100">
       <div className="autocomplete relative">
         <div className="border flex rounded items-center bg-white">
           <i className="fas fa-search fa-fw mx-3 text-gray-500"></i>
